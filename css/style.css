@@ -122,8 +122,8 @@
   color: #fff;
 }
 .btn-resume {
-  margin-left: 10px;
-  padding: 13px 40px;
+  /* margin-left: 9px; */
+  padding: 11px 38px;
   background: transparent;
   color: #fff;
   border-radius: 5px;
@@ -427,6 +427,9 @@ h6 {
 }
 .hero-area .btn-main {
   margin-right: 12px;
+}
+ .btn-resume {
+  margin-left: 12px;
 }
 .hero-area .btn-text:hover {
   color: #fff;
@@ -1805,7 +1808,7 @@ h6 {
     padding: 10px 28px;
   }
   .btn-resume  {
-    padding: 10px 28px;
+    padding: 8px 26px;
   }
   .section-title {
     width: 80%;
@@ -1997,6 +2000,11 @@ h6 {
     margin-bottom: 30px;
     display: inline-block;
   }
+  .btn-resume {
+    margin-left: 0;
+    margin-bottom: 30px;
+    display: inline-block;
+  }
   .hero-area .hero-social {
     display: block;
   }
@@ -2160,6 +2168,10 @@ h6 {
     padding-bottom: 60px;
   }
   .site-footer .btn-main {
+    padding-left: 21px;
+    padding-right: 21px;
+  }
+  .btn-main {
     padding-left: 21px;
     padding-right: 21px;
   }
